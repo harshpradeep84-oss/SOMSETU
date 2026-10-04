@@ -1,0 +1,28 @@
+# Ignore everything by default
+*
+
+# Keep project source and essential metadata only
+!/.gitignore
+!/README.md
+!/requirements.txt
+!"/SETU_XML_Sidecar (10).py"
+
+# Ignore generated/runtime files and large assets
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.xml
+*.zip
+*.exe
+*.msix
+*.mp4
+*.csv
+*.html
+*.pptx
+*.pdf
+*.log
+*.tmp
+*.bak
